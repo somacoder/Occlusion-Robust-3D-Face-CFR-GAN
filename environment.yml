@@ -1,4 +1,4 @@
-name: stylegan3
+name: Occlusion-Robust-3D-Face-CFR-GAN
 channels:
   - pytorch
   - conda-forge
