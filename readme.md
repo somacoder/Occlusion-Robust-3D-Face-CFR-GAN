@@ -23,7 +23,7 @@ First row is baseline results and second row is our results.
 + Python 3.7 or 3.8 can be used.
 
   ~~~bash
-  pip install -r requirements.txt
+  conda env update --file .\environment.yml
   ~~~
 
 + Install the [Pytorch3D](https://github.com/facebookresearch/pytorch3d)==0.2.5
