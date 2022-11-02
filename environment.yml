@@ -16,4 +16,3 @@ dependencies:
       - scipy
       - tensorboard
       - tqdm
-      - retinaface-pytorch
