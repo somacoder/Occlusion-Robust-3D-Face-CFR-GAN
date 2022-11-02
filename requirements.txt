@@ -1,8 +1,0 @@
-torch>=1.6.0
-torchvision
-opencv-python
-pillow
-scikit-image
-scipy
-tensorboard
-tqdm
